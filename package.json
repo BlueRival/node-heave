@@ -1,0 +1,23 @@
+{
+	"name": "heave",
+	"description": "Heave is a development and publication tool for single page applicaitons. It is primarily focused on support for AngularJS applications using Stylus for CSS templates and Jade for HTML templates as well as serving up static assets such as images.",
+	"version": "0.0.1",
+	"author": "Anthony Hildoer <anthony@bluerival.com>",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:BlueRival/node-heave.git"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"keywords": [
+		"angular",
+		"stylus",
+		"jade"
+	],
+	"engines": {
+		"node": ">=4.0.0"
+	},
+	"license": "MIT"
+}
